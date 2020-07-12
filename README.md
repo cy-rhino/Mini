@@ -1,2 +1,2 @@
 # mini
-Arduino compatible minimal board
+Arduino compatible minimal board with MiniCore
